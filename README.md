@@ -1,4 +1,4 @@
-# eternity.github.io
+# lq186.github.io
 
 > 永无止境
 
