@@ -1,6 +1,6 @@
 # lq186.github.io
 
-> 永无止境
+> 学习 (^_^) 永无止境 ~
 
 ## Build Setup
 
